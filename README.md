@@ -1,6 +1,6 @@
-# audio-recorder
-Book audio recording page with QR code
-<!DOCTYPE html>
+# 我的錄音室
+準備好就開始吧!
+
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
